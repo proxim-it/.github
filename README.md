@@ -1,2 +1,2 @@
-# .github
-About us
+<h1 align=center>About Us</h1>
+
